@@ -1,6 +1,6 @@
 # Predictive Healthcare Analytics: No-show Prediction
+![ss of app](https://github.com/user-attachments/assets/40530cc3-9070-4370-8f13-89dbd6463d57)
 
-![App Screenshot]("C:\Users\DELL\Pictures\Screenshots\ss of app.png")
 
 ## Overview
 
